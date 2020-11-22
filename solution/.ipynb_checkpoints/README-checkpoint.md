@@ -27,7 +27,7 @@
 
 **1. Based on your time series analysis, would you buy the yen now?**
 
-Depending on your level of risk tolerance, now may be a good time to buy the yen. 
+Depending on your level of risk tolerance, not may be a good time to buy the yen. 
 
 
 **2. Is the risk of the yen expected to increase or decrease?**
